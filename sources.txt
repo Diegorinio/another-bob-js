@@ -1,0 +1,33 @@
+menu:
+https://freesound.org/people/michorvath/sounds/412342/
+menu2:
+https://freesound.org/people/josefpres/sounds/657567/
+level1:
+https://freesound.org/people/josefpres/sounds/657561/
+chase:
+https://freesound.org/people/ShiftKun/sounds/435782/
+robot:
+https://cdn-icons-png.flaticon.com/512/1998/1998614.png
+robot voice:
+https://imrane03.github.io/better-sam/
+portal:
+https://www.pngaaa.com/detail/3113939
+reveal:
+https://freesound.org/people/Zetauri/sounds/277251/
+portal sound:
+https://freesound.org/people/Euphrosyyn/sounds/592787/
+platform:
+https://www.pngmart.com/image/94798/png/94797
+war:
+https://freesound.org/people/Beetlemuse/sounds/559536/
+peace:
+https://freesound.org/people/BloodPixelHero/sounds/477654/
+dissapear:
+https://freesound.org/people/SieuAmThanh/sounds/697451/
+scenes:
+    bg1:
+    https://saurabhkgp.itch.io/pixel-art-forest-background-simple-seamless-parallax-ready-for-2d-platformer-s
+    las:
+    https://qdanp.itch.io/forest-stage-escenario-bosque
+    las2:
+    https://vgdr.itch.io/colorful-big-tree-background-pack

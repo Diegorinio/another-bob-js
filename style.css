@@ -1,0 +1,41 @@
+html, body {
+    height: 95%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-color:blue;
+    color:white;
+}
+#mainCanvas{
+    width: 100%;
+    background-color: white;
+    border: solid #5c3921;
+    cursor: none;
+}
+
+/* html{
+    margin: auto;
+}
+body{
+    height: 100%;
+    padding: 0;
+}
+body{
+    display: table-cell;
+    vertical-align: middle;
+    background-color: blue;
+}
+
+#mainCanvas{
+    background-color: white;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+} */
